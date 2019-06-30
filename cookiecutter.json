@@ -1,0 +1,8 @@
+{
+  "folder_name": "my_resource_type",
+  "resource_type": "MyResourceType",
+  "resource_description": "A short description of the project",
+  "include_optional_parameters (y/n)": "n",
+  "lambda_memory_size": 128,
+  "lambda_timeout": 3
+}
